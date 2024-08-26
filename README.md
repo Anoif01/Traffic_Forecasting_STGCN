@@ -42,13 +42,14 @@ Building on the Spatio-Temporal Graph Convolutional Networks (STGCN) model, this
 
 This project builds on the foundational work of Spatio-Temporal Graph Convolutional Networks (STGCN). For more detailed information on the STGCN model and its applications, please refer to:
 
+```bibtex
 @inproceedings{jiang2021dl,
   title={DL-Traff: Survey and Benchmark of Deep Learning Models for Urban Traffic Prediction},
-  author={Jiang, Renhe and Yin, Du and Wang, Zhaonan and Wang, Yizhuo and Deng, Jiewen and Liu, Hangchen and Cai, Zekun and Deng, Jinliang and Song, Xuan and Shibasaki,
-  Ryosuke},
+  author={Jiang, Renhe and Yin, Du and Wang, Zhaonan and Wang, Yizhuo and Deng, Jiewen and Liu, Hangchen and Cai, Zekun and Deng, Jinliang and Song, Xuan and Shibasaki, Ryosuke},
   booktitle={Proceedings of the 30th ACM International Conference on Information \& Knowledge Management},
   pages={4515--4525},
   year={2021}
 }
+```
 
 You can explore the related code and dataset in their GitHub repository: [DL-Traff-Graph](https://github.com/deepkashiwa20/DL-Traff-Graph)
