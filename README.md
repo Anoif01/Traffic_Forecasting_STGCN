@@ -40,7 +40,7 @@ Building on the Spatio-Temporal Graph Convolutional Networks (STGCN) model, this
 ## 🔗 Explore More
 
 - **Public Kaggle Notebook**: [Link to the notebook](https://lnkd.in/eKx7Rw_N)
-- **Original LinkedIn Post**: [Link to the post]([https://lnkd.in/eZpUjYGj](https://www.linkedin.com/feed/update/urn:li:activity:7185540561200648192/))
+- **Original LinkedIn Post**: [Link to the post](https://www.linkedin.com/feed/update/urn:li:activity:7185540561200648192/))
 
 ## 📚 References
 
