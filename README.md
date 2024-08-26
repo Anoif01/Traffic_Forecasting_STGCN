@@ -1,4 +1,4 @@
-# 🚦 Dynamic 3D Traffic Flow Visualization and Advanced Forecasting 🚀
+# 🚦 Dynamic 3D Traffic Flow Visualization and Advanced Forecasting
 
 This repository showcases a project focused on visualizing traffic flow in Los Angeles using 3D maps and improving traffic forecasting accuracy through advanced deep learning models.
 
