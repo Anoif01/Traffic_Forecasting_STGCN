@@ -10,6 +10,8 @@ Leveraging the **METR-LA dataset**—which records traffic flow at 207 locations
 - **Dynamic 3D Visualization**: Integrates Pydeck’s Heatmap, Scatter, Grid, and Text layers to present a comprehensive view of traffic flow.
 - **Visualization Tools**: Developed in Kaggle, this project highlights Pydeck’s data visualization capabilities.
 
+**Checkout Notebook:** [mapvisualization-metrla-pydeck.ipynb]
+
 ### 🎥 Visualization Demo
 
 ![Traffic Flow Visualization](dataset_animation.gif)
@@ -28,6 +30,8 @@ Building on the Spatio-Temporal Graph Convolutional Networks (STGCN) model, this
 **Key Results:**
 - **Model Improvement**: Replacing the TCN with GRU in STGCN significantly reduced the Mean Absolute Error (MAE) from 3.33 to 3.26.
 - **Visualization Tools**: Pydeck, Plotly, and Mapbox were used to visualize model predictions against actual data.
+
+**Checkout Notebook:** [mapvisualization-metrla-pydeck.ipynb]
 
 ### 🎥 Experiment Report
 
